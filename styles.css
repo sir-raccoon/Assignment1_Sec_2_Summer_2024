@@ -13,11 +13,12 @@ body {
 }
 
 header {
-    background-color: #b62727;
-    color: #fafafa;
+    background-color: #c43939f3;
+    color: #020202;
     padding: 20px;
     text-align: center;
     width: 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     
     
 }
@@ -47,7 +48,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #000000;
     color: #fff;
     text-align: center;
     padding: 10px;
